@@ -1,6 +1,6 @@
 # 💇‍♀️ MiraSalon KMP
 
-**MiraSalon** is a Kotlin Multiplatform project built with Jetpack Compose Multiplatform and powered by a custom Ktor backend server. It targets **Android, iOS, Web, and Desktop** platforms, offering a full-featured salon management ecosystem.
+**WizaSalon** is a Kotlin Multiplatform project built with Jetpack Compose Multiplatform and powered by a custom Ktor backend server. It targets **Android, iOS, Web, and Desktop** platforms, offering a full-featured salon management ecosystem.
 
 It includes:
 - A **Customer-facing Android app** for appointment booking and client engagement
